@@ -1,2 +1,2 @@
-# Rock-paper-scissors
+# rock-paper-scissors
 Игра "Камень, ножницы, бумага" - пользователь против компьютера (через random)
